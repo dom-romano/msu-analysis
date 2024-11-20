@@ -9,8 +9,6 @@ This project provides a detailed performance analysis of the Morehead State Univ
 - [Key Insights](#key-insights)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Future Work](#future-work)
-- [Contact](#contact)
 
 ---
 
