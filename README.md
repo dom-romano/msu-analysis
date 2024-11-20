@@ -23,7 +23,7 @@ The dataset used includes the following player statistics per game:
 - **Defensive Metrics**: Steals, blocks, and rebounds.  
 - **Other**: Total games played, minutes per game.
 
-The data was sourced from public platforms like ESPN.
+The data was sourced from Sports Reference.
 
 ---
 
@@ -40,7 +40,7 @@ The data was sourced from public platforms like ESPN.
 - **Defensive Standouts**: Evaluated players excelling in steals, blocks, and rebounding.  
 - **Strategic Suggestions**: Recommendations for optimizing 3-point shooting and defensive rotations.  
 
-Detailed findings and visualizations are available in the project’s [analysis report](link-to-report-if-hosted-online).
+Detailed findings and visualizations are available in the project’s analysis report.
 
 ---
 
