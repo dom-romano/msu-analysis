@@ -58,7 +58,7 @@ Detailed findings and visualizations are available in the project’s analysis r
 1. Clone this repository:
    
 ```bash
-git clone https://github.com/yourusername/msu-wbb-analysis.git
+git clone https://github.com/dom-romano/msu-wbb-analysis.git
 ```
 
 2. Install required Python libraries:
